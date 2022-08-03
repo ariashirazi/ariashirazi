@@ -23,4 +23,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariashirazi&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 
+<a href="https://github.com/ariashirazi/InstaBrowser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AriaShirazi&repo=InstaBrowser&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
